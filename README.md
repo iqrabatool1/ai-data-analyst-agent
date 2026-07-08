@@ -16,7 +16,7 @@ This is a "Digital FTE" style project: an AI agent that takes a specific user in
 
 ### Feature Walkthrough Placeholders:
 * **Data Quality Report:** *[Insert screenshot here]*
-* **Chat Interaction:** *[Insert screenshot here]*
+* **Chat Interaction:** *https://github.com/iqrabatool1/ai-data-analyst-agent/blob/main/Screenshot%202026-07-08%20163216.png* ![alt text](https://github.com/iqrabatool1/ai-data-analyst-agent/blob/main/Screenshot%202026-07-08%20163216.png)
 * **Chart Generation:** *[Insert screenshot here]*
 
 ---
