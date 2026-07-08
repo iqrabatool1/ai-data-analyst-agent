@@ -1,4 +1,4 @@
-# 🧮 Pro Data Agent — AI Data Analyst Agent
+#  Pro Data Agent — AI Data Analyst Agent
 
 > **An autonomous AI agent that acts like a mini data analyst.** Upload a CSV, chat with it in plain English, and it filters, cleans, analyzes, and visualizes your data — powered by Google's Gemini API.
 
@@ -8,11 +8,11 @@ This is a "Digital FTE" style project: an AI agent that takes a specific user in
 
 ---
 
-## 📸 Demo
+##  Demo
 
 <!-- Replace this with an actual screenshot or GIF of your app once deployed -->
 <!-- Example: ![App Screenshot](screenshots/main-view.png) -->
-🖼️ *Screenshot coming soon — add an image of the app here (e.g. screenshots/main-view.png)*
+ *Screenshot coming soon — add an image of the app here (e.g. screenshots/main-view.png)*
 
 ### Feature Walkthrough:
 
@@ -30,7 +30,7 @@ Here are some screenshots showcasing the features of our AI Data Analyst Agent:
 
     <img src="https://github.com/iqrabatool1/ai-data-analyst-agent/blob/main/Screenshot%202026-07-08%20162745.png" width="500" alt="Chart Generation Screenshot">
 
-## ✨ Features
+##  Features
 
 * **💬 Chat-based Interface:** Describe what you want in plain English and get results right in the conversation.
 * **🔍 Filter & Analyze:** Handles complex syntax naturally, e.g., *"show only Punjab customers"*, *"average revenue by region"*, or *"which region has the highest revenue"*.
@@ -43,7 +43,7 @@ Here are some screenshots showcasing the features of our AI Data Analyst Agent:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
 CSV upload
