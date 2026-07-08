@@ -8,10 +8,6 @@ This is a "Digital FTE" style project: an AI agent that takes a specific user in
 
 ##  Demo
 
-<!-- Replace this with an actual screenshot or GIF of your app once deployed -->
-<!-- Example: ![App Screenshot](screenshots/main-view.png) -->
- *Screenshot coming soon — add an image of the app here (e.g. screenshots/main-view.png)*
-
 ### Feature Walkthrough:
 
 Here are some screenshots showcasing the features of our AI Data Analyst Agent:
