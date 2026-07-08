@@ -1,11 +1,11 @@
- Pro Data Agent — AI Data Analyst Agent
+ # Pro Data Agent — AI Data Analyst Agent
 
 Show Image
 Show Image
 Show Image
 Show Image
 
-An autonomous AI agent that acts like a mini data analyst. Upload a CSV, chat with it in plain English, and it filters, cleans, analyzes, and visualizes your data — powered by Google's Gemini API.
+ ## An autonomous AI agent that acts like a mini data analyst. Upload a CSV, chat with it in plain English, and it filters, cleans, analyzes, and visualizes your data — powered by Google's Gemini API.
 
 This is a "Digital FTE" style project: an AI agent that takes a specific user input, reasons about it, and performs a real automated task (not just chatting) — generating and safely executing pandas/Plotly code on real data.
 
@@ -15,16 +15,16 @@ This is a "Digital FTE" style project: an AI agent that takes a specific user in
 <!-- Replace this with an actual screenshot or GIF of your app once deployed -->
 <!-- Example: ![App Screenshot](screenshots/main-view.png) -->
 
-🖼️ Screenshot coming soon — add an image of the app here (e.g. screenshots/main-view.png)
+![alt text](image.png)
 
 
 
-Data Quality ReportChat InteractionChart Generationscreenshot herescreenshot herescreenshot here
+# Data Quality ReportChat InteractionChart Generationscreenshot herescreenshot herescreenshot here
 
 🔗 Live demo: [Add your Hugging Face Space / deployed link here]
 
 
-✨ Features
+# Features
 
 
 💬 Chat-based interface — describe what you want in plain English, get results in a conversation
@@ -38,7 +38,7 @@ Data Quality ReportChat InteractionChart Generationscreenshot herescreenshot her
 
 
 
-🏗️ Architecture
+# Architecture
 
 CSV upload
      ↓
@@ -58,9 +58,9 @@ PERMANENT change (e.g. "remove duplicates permanently")?
 Result (table/chart) shown in chat + persisted across reruns
 
 
-🚀 Getting Started
+# Getting Started
 
-Prerequisites
+ ## Prerequisites
 
 
 Python 3.9+
@@ -87,7 +87,7 @@ Fill missing revenue with the average, permanently
 
 🛠️ Tech Stack
 
-LayerTechnologyUI / App frameworkStreamlitData handlingpandasVisualizationPlotly ExpressAI reasoningGoogle Gemini APILanguagePython
+ # LayerTechnologyUI / App frameworkStreamlitData handlingpandasVisualizationPlotly ExpressAI reasoningGoogle Gemini APILanguagePython
 
 
 📁 Project Structure
@@ -100,12 +100,12 @@ ai-data-analyst-agent/
 └── README.md
 
 
-⚠️ Safety Notes
+# Safety Notes
 
 Generated code runs through exec() in a restricted namespace (limited builtins, no import/os/sys/file access). This is a reasonable safeguard for a learning/portfolio project, but for production use, a true sandboxed subprocess or container-based execution would be more robust.
 
 
-🗺️ Roadmap
+ # Roadmap
 
 
  Undo history (multi-step, not just reset-to-original)
