@@ -4,9 +4,7 @@
 
 This is a "Digital FTE" style project: an AI agent that takes a specific user input, reasons about it, and performs a real automated task (not just chatting) — generating and safely executing pandas/Plotly code on real data.
 
-🔗 **Live Demo:** [Add your Hugging Face Space / deployed link here]
 
----
 
 ##  Demo
 
