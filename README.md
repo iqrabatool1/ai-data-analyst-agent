@@ -15,10 +15,16 @@ This is a "Digital FTE" style project: an AI agent that takes a specific user in
 🖼️ *Screenshot coming soon — add an image of the app here (e.g. screenshots/main-view.png)*
 
 ### Feature Walkthrough Placeholders:
-* **Data Quality Report:** *[https://github.com/iqrabatool1/ai-data-analyst-agent/blob/main/Screenshot%202026-07-08%20172455.png]*
-* **Chat Interaction:** *[https://github.com/iqrabatool1/ai-data-analyst-agent/blob/main/Screenshot%202026-07-08%20163216.png]*
-* **Chart Generation:** *[https://github.com/iqrabatool1/ai-data-analyst-agent/blob/main/Screenshot%202026-07-08%20162745.png]*
+<br>
 
+* **Data Quality Report:**
+  <img src="https://raw.githubusercontent.com/iqrabatool1/ai-data-analyst-agent/main/Screenshot%202026-07-08%20172455.png" alt="Data Quality Report" width="100" height="auto">
+
+* **Chat Interaction:**
+  <img src="https://raw.githubusercontent.com/iqrabatool1/ai-data-analyst-agent/main/Screenshot%202026-07-08%20163216.png" alt="Chat Interaction" width="100" height="auto">
+
+* **Chart Generation:**
+  <img src="https://raw.githubusercontent.com/iqrabatool1/ai-data-analyst-agent/main/Screenshot%202026-07-08%20162745.png" alt="Chart Generation" width="100" height="auto">
 ---
 
 ## ✨ Features
